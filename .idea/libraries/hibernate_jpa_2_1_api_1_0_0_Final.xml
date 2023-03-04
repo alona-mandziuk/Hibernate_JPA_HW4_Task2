@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="hibernate-jpa-2.1-api-1.0.0.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../6_JDBC &amp; Hibernate/JBDC&amp;Hibernate/Hibernate4/Hibernate4/004_JPA_API/004_Samples/hibernate-jpa-2.1-api-1.0.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../6_JDBC &amp; Hibernate/JBDC&amp;Hibernate/Hibernate4/Hibernate4/004_JPA_API/004_Samples/mysql-connector-java-5.1.5-bin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
